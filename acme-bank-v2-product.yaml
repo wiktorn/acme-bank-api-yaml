@@ -5,7 +5,7 @@ info:
   version: 2.0.0
 apis:
   acme-bank-v1:
-    $ref: acme-bank-21.yaml
+    $ref: acme-bank-v2.yaml
 visibility:
   view:
     type: public
