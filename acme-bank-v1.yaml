@@ -1074,7 +1074,7 @@ basePath: /api
 swagger: '2.0'
 info:
   x-ibm-name: acme-bank-v1
-  version: 1.1.1
+  version: 2.0.0
   title: acme-bank-v1
 schemes:
   - https
