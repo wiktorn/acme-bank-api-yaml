@@ -1,7 +1,7 @@
 product: 1.0.0
 info:
-  name: acme-bank-v1
-  title: acme-bank-v1
+  name: acme-bank-v2
+  title: acme-bank-v2
   version: 2.0.0
 apis:
   acme-bank-v1:
