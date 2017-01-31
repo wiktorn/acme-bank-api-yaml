@@ -1074,8 +1074,8 @@ basePath: /api
 swagger: '2.0'
 info:
   x-ibm-name: acme-bank-v3
-  version: 3.0.0
-  title: acme-bank-v2
+  version: 3.0.1
+  title: acme-bank-v3
 schemes:
   - https
 host: $(catalog.host)
