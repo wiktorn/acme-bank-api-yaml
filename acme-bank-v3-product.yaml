@@ -2,7 +2,7 @@ product: 1.0.0
 info:
   name: acme-bank-v3
   title: acme-bank-v3
-  version: 3.0.3
+  version: 3.0.2
 apis:
   acme-bank-v3:
     $ref: acme-bank-v3.yaml
